@@ -1,4 +1,4 @@
-Hola soy Iker Erdociain, Programador de Front End (HTML, CSS y Javascript)
+# Hola soy Iker Erdociain, Programador de Front End (HTML, CSS y Javascript)
 
 <p align="center">Mis Stats</p>
 
@@ -13,11 +13,13 @@ Hola soy Iker Erdociain, Programador de Front End (HTML, CSS y Javascript)
  <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IkerOwO&repo=Mi-Web"/>
 
-<p align="left">
-<img src="![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)"/>
+## Lenguajes que uso
 
-<p align="center">
-<img src="![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)"/>
 
-<p align="right">
-<img src="![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)"/>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+
+
+<![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
