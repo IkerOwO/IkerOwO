@@ -3,6 +3,8 @@
 
 <p align="center">🅼🅸🆂||🆂🆃🅰🆃🆂</p>
 
+<br/>
+
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=IkerOwO&theme=calm&border_radius=15&date_format=M%20j%5B%2C%20Y%5D"/>
 
@@ -11,7 +13,7 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=IkerOwO&theme=modern-lilac"/>
 
-
+<br/>
 
 <p align="center">🅻🅴🅽🅶🆄🅰🅹🅴🆂 🆀🆄🅴 🆄🆂🅾</p>
 
@@ -19,7 +21,7 @@
 <img src="https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)"/>
 
 
-
+<br/>
 
 <p align="center">🆁🅴🅿🅾🆂🅸🆃🅾🆁🅸🅾🆂</p>
 
