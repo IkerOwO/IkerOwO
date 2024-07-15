@@ -25,10 +25,9 @@
 </div>
 <hr/>
 
-<p align="center">📖𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨𝐬📖</p>
+<h2 align="center">📖𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨𝐬📖</h2>
 
+<div align="center">
 
-
-
-<p align="center">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IkerOwO&repo=Mi-Web"/>
+ </div>
