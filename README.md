@@ -13,9 +13,10 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=IkerOwO&theme=modern-lilac"/>
 
-<br/>
+
 
 <p align="center">🅻🅴🅽🅶🆄🅰🅹🅴🆂 🆀🆄🅴 🆄🆂🅾</p>
+<br/>
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)"/>
