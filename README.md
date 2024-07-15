@@ -1,4 +1,4 @@
-# Hola soy Iker Erdociain, Programador de Front End (HTML, CSS y Javascript)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hola+soy+Iker+Erdociain+Programador+de+Front+End+(HTML%2C+CSS+y+Javascript))](https://git.io/typing-svg)
 
 <p align="center">🅼🅸🆂||🆂🆃🅰🆃🆂</p>
 
