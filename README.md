@@ -14,7 +14,7 @@
  <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IkerOwO&repo=Mi-Web"/>
 
-## Lenguajes que uso
+<p align="center">🅻🅴🅽🅶🆄🅰🅹🅴🆂 🆀🆄🅴 🆄🆂🅾</p>
 
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)
