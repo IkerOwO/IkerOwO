@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hola+soy+Iker+Erdociain;Programador+de+Front+End)](https://git.io/typing-svg)
  
 
-<p align="center">🅼🅸🆂||🆂🆃🅰🆃🆂</p>
+<p align="center">📈мιѕ ѕтαтѕ📈</p>
 
 <br/>
 
@@ -15,7 +15,7 @@
 
 
 
-<p align="center">🅻🅴🅽🅶🆄🅰🅹🅴🆂 🆀🆄🅴 🆄🆂🅾</p>
+<p align="center">🛠️𝐋𝐞𝐧𝐠𝐮𝐚𝐣𝐞𝐬 𝐪𝐮𝐞 𝐮𝐬𝐨🛠️</p>
 <br/>
 
 <p align="center">
@@ -24,7 +24,7 @@
 
 
 
-<p align="center">🆁🅴🅿🅾🆂🅸🆃🅾🆁🅸🅾🆂</p>
+<p align="center">📖𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨𝐬📖</p>
 
 <br/>
 
