@@ -13,7 +13,7 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=IkerOwO&theme=modern-lilac"/>
 
-
+<hr/>
 
 <p align="center">🛠️𝐋𝐞𝐧𝐠𝐮𝐚𝐣𝐞𝐬 𝐪𝐮𝐞 𝐮𝐬𝐨🛠️</p>
 <br/>
@@ -21,11 +21,11 @@
 <p align="center">
 <img src="https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)"/>
 
-<br/>
+<hr/>
 
 <p align="center">📖𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨𝐬📖</p>
 
-<hr/>
+
 
 
 <p align="center">
