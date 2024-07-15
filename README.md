@@ -25,7 +25,7 @@
 
 <p align="center">📖𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨𝐬📖</p>
 
-<br/>
+<hr/>
 
 
 <p align="center">
