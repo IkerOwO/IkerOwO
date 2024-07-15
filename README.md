@@ -16,12 +16,13 @@
 
 <hr/>
 
-<p align="center">🛠️𝐋𝐞𝐧𝐠𝐮𝐚𝐣𝐞𝐬 𝐪𝐮𝐞 𝐮𝐬𝐨🛠️</p>
+<h2 align="center">🛠️𝐋𝐞𝐧𝐠𝐮𝐚𝐣𝐞𝐬 𝐪𝐮𝐞 𝐮𝐬𝐨🛠️</h2>
 <br/>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)"/>
+<div align="center">
 
+<img src="https://skillicons.dev/icons?i=js,html,css,py)](https://skillicons.dev)"/>
+</div>
 <hr/>
 
 <p align="center">📖𝐑𝐞𝐩𝐨𝐬𝐢𝐭𝐨𝐫𝐢𝐨𝐬📖</p>
