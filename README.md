@@ -1,6 +1,6 @@
 # Hola soy Iker Erdociain, Programador de Front End (HTML, CSS y Javascript)
 
-<p align="center">Mis Stats</p>
+##<p align="center">Mis Stats</p>
 
 <p align="center">
  <img src="https://streak-stats.demolab.com?user=IkerOwO&theme=calm&border_radius=15&date_format=M%20j%5B%2C%20Y%5D"/>
