@@ -1,5 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hola+soy+Iker+Erdociain;Programador+de+Front+End)](https://git.io/typing-svg)
  
+<hr/>
 
 <p align="center">📈𝓜𝓲𝓼 𝓢𝓽𝓪𝓽𝓼📈</p>
 
