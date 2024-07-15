@@ -1,5 +1,7 @@
 <h1 align="center">
- <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hola+soy+Iker+Erdociain)](https://git.io/typing-svg)"/>
+ <a href="https://git.io/typing-svg">
+ <img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hola+soy+Iker+Erdociain)]"/>
+ </a>
 </h1>
 
 <p align="center">🅼🅸🆂||🆂🆃🅰🆃🆂</p>
