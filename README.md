@@ -14,6 +14,9 @@
 <p align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=IkerOwO&theme=modern-lilac"/>
 
+<p align="center">
+ <img src="https://github-profile-trophy.vercel.app/?username=IkerOwO&theme=discord"</a></p>
+
 <hr/>
 
 <h2 align="center">🛠️𝐋𝐞𝐧𝐠𝐮𝐚𝐣𝐞𝐬 𝐪𝐮𝐞 𝐮𝐬𝐨🛠️</h2>
