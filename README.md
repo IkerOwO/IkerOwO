@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hola+soy+Iker+Erdociain;Programador+de+Front+End)](https://git.io/typing-svg)
+(https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hola+soy+Iker+Erdociain;Programador+de+Front+End)](https://git.io/typing-svg)
  
 <hr/>
 
