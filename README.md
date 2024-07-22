@@ -33,5 +33,5 @@
 <div align="center">
 
  <img src="https://github-readme-stats.vercel.app/api/pin/?username=IkerOwO&repo=Mi-Web"/>
- <img src="https://github-readme-stats.vercel.app/api/pin/?username=IkerOwO&repo=Portfolio"/>
+ <img src="https://github-readme-stats.vercel.app/api/pin/?username=IkerOwO&repo=Portfolio-"/>
  </div>
