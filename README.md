@@ -24,7 +24,16 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,cpp,py,java,mysql,linux,)](https://skillicons.dev)" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,linux,)](https://skillicons.dev)" />
+  </a>
+</p>
+
+<h2 align="center">🛠️𝐋𝐞𝐧𝐠𝐮𝐚𝐣𝐞𝐬 𝐪𝐮𝐞 Estoy Aprendiendo🛠️</h2>
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,java,)](https://skillicons.dev)" />
   </a>
 </p>
 
