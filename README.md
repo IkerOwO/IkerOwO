@@ -31,6 +31,8 @@
 <h2 align="center">🛠️𝙇𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨 𝙦𝙪𝙚 𝙚𝙨𝙩𝙤𝙮 𝙖𝙥𝙧𝙚𝙣𝙙𝙞𝙚𝙣𝙙𝙤🛠️</h2>
 <br/>
 
+<hr/>
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,java,)](https://skillicons.dev)" />
