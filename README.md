@@ -24,7 +24,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,linux,)](https://skillicons.dev)" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,py,mysql,)](https://skillicons.dev)" />
   </a>
 </p>
 
@@ -35,7 +35,18 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,java,)](https://skillicons.dev)" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,)](https://skillicons.dev)" />
+  </a>
+</p>
+
+<hr/>
+
+<h2 align="center">⌨️Mis IDE(s)⌨️</h2>
+<br/>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,)](https://skillicons.dev)" />
   </a>
 </p>
 
