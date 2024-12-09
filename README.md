@@ -1,4 +1,4 @@
-<p align="center">Hola, Soy Iker 👋</p>
+<h1 align="center">Hola, Soy Iker 👋</h1>
 
 <hr/>
 
