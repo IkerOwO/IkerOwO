@@ -1,4 +1,4 @@
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hola+soy+Iker+Erdociain;Estudiante+y+Programador"></a></p>
+<p align="center">Hola, Soy Iker 👋</p>
 
 <hr/>
 
