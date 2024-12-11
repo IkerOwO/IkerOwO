@@ -41,7 +41,7 @@
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,)](https://skillicons.dev)" />
+    <img src="https://skillicons.dev/icons?i=vscode,visualstudio,vim,idea,pycharm,)](https://skillicons.dev)" />
 </p>
 
 <hr/>
