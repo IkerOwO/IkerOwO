@@ -23,9 +23,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,linux,)](https://skillicons.dev)" />
-  </a>
 </p>
 
 <hr/>
@@ -34,9 +32,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=c,cpp,java,)](https://skillicons.dev)" />
-  </a>
 </p>
 
 <hr/>
@@ -45,12 +41,18 @@
 <br/>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=vscode,visualstudio,idea,pycharm,)](https://skillicons.dev)" />
-  </a>
 </p>
 
 <hr/>
 
+<h2 align="center"> Sistemas con los que trabajo </h2>
+</br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=windows,linux,)](https://skillicons.dev)" />
+</p>
+
+<hr/>
 ![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
