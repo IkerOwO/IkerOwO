@@ -46,7 +46,7 @@
 
 <hr/>
 
-<h2 align="center"> Sistemas con los que trabajo </h2>
+<h2 align="center"> 🖥️Sistemas con los que trabajo🖥️ </h2>
 </br>
 
 <p align="center">
@@ -54,5 +54,6 @@
 </p>
 
 <hr/>
+
 ![](https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg)
 
