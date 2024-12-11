@@ -23,7 +23,7 @@
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,mysql,linux,)](https://skillicons.dev)" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,mysql,)](https://skillicons.dev)" />
 </p>
 
 <hr/>
@@ -50,7 +50,7 @@
 </br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=windows,linux,)](https://skillicons.dev)" />
+  <img src="https://skillicons.dev/icons?i=windows,debian,arch,)](https://skillicons.dev)" />
 </p>
 
 <hr/>
