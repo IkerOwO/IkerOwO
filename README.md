@@ -23,7 +23,7 @@
 <br/>
 
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,linux,mysql,)](https://skillicons.dev)" />
+    <img src="https://skillicons.dev/icons?i=js,py,linux,mysql,)](https://skillicons.dev)" />
 </p>
 
 <hr/>
