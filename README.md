@@ -1,8 +1,8 @@
-<h1 align="center">Hola, Soy Iker 👋</h1>
+<h1 align="center">Hi, I'm Iker 👋</h1>
 
 <hr/>
 
-<h2 align="center">📈𝐌𝐢𝐬 𝐒𝐭𝐚𝐭𝐬📈</h2>
+<h2 align="center">📈My Stats📈</h2>
 
 <br/>
 
@@ -19,7 +19,7 @@
 
 <hr/>
 
-<h2 align="center">🛠️𝐋𝐞𝐧𝐠𝐮𝐚𝐣𝐞𝐬 𝐪𝐮𝐞 𝐮𝐬𝐨🛠️</h2>
+<h2 align="center">🛠️Skills🛠️</h2>
 <br/>
 
 
@@ -32,7 +32,7 @@
 
 <hr/>
 
-<h2 align="center">👨‍💻𝙇𝙚𝙣𝙜𝙪𝙖𝙟𝙚𝙨 𝙦𝙪𝙚 𝙚𝙨𝙩𝙤𝙮 𝙖𝙥𝙧𝙚𝙣𝙙𝙞𝙚𝙣𝙙𝙤👨‍💻</h2>
+<h2 align="center">👨‍💻Languages i'm learning👨‍💻</h2>
 <br/>
 
 
@@ -42,7 +42,7 @@
 
 <hr/>
 
-<h2 align="center">⌨️Mis IDE(s)⌨️</h2>
+<h2 align="center">⌨️IDE(s)⌨️</h2>
 <br/>
 
 
@@ -55,7 +55,7 @@
 
 <hr/>
 
-<h2 align="center"> 🖥️Sistemas con los que trabajo🖥️ </h2>
+<h2 align="center"> 🖥️Os🖥️ </h2>
 </br>
 
 
