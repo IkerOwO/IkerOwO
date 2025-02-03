@@ -4,6 +4,8 @@
 
 <p align="center">
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IkerOwO&layout=compact&langs_count=8&theme=radical&locale=en"/>
+ <p align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=IkerOwO&theme=modern-lilac"/>
 <hr/>
 
 <h2 align="center">🛠️Skills🛠️</h2>
@@ -43,7 +45,7 @@
 
 <hr/>
 
-<h2 align="center"> 🖥️Os🖥️ </h2>
+<h2 align="center"> 🖥️OS🖥️ </h2>
 </br>
 
 
