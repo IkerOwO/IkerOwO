@@ -33,7 +33,7 @@
 
 <hr/>
 
-<h2 align="center">👨‍💻Languages i'm learning👨‍💻</h2>
+<h2 align="center">👨‍💻Languages I'm learning👨‍💻</h2>
 <br/>
 
 
