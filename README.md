@@ -31,7 +31,6 @@
 <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
 
-
 <hr/>
 
 <h2 align="center">👨‍💻Languages I'm learning👨‍💻</h2>
