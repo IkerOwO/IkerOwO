@@ -8,7 +8,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=IkerOwO&theme=modern-lilac"/>
 <hr/>
 
-<h2 align="center">🛠️Skills🛠️</h2>
+<h2 align="center">🛠️Languages🛠️</h2>
 <br/>
 
 
@@ -19,6 +19,16 @@
  ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
  ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+<hr/>
+
+<h2 align="center">🛠️Framewoks🛠️</h2>
+<br/>
+
+
+![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
 
 
 <hr/>
