@@ -1,7 +1,24 @@
 <h1 align="center">Hi, I'm Iker 👋</h1>
 
 <hr/>
+```java
+ package com.iker.readme;
+ import iker.info.*;
+public class Iker {
+    final String[]   languages = {"Java", "C#", "Python"};
+    final String[] main_hobbies = {"Play_Guitar", "Draw"};
+    final List<Tool> OS = Arrays.asList(Fedora, ArchLinux, Windows 11);
+    final List<Ides> = Arrays.asList(VSCodium, Intellij, Visual Studio);
+    @Override
+    public string SeeMore(){
+       while(true)
+          scrollDown();
+       return "Ok";
+    }
+}
+```
 
+<!--
 <p align="center">
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IkerOwO&layout=compact&langs_count=8&theme=radical&locale=en"/>
  <p align="center">
@@ -10,7 +27,7 @@
 
 <h2 align="center"></>Languages</></h2>
 <br/>
-
+-->
 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
