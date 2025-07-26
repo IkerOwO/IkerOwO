@@ -2,21 +2,27 @@
 
 <hr/>
 ```java
- package com.iker.readme;
- import iker.info.*;
+package com.iker.readme;
+
+import iker.info.*;
+import java.util.Arrays;
+import java.util.List;
+
 public class Iker {
-    final String[]   languages = {"Java", "C#", "Python"};
+    final String[] languages = {"Java", "C#", "Python"};
     final String[] main_hobbies = {"Play_Guitar", "Draw"};
-    final List<Tool> OS = Arrays.asList(Fedora, ArchLinux, Windows 11);
-    final List<Ides> = Arrays.asList(VSCodium, Intellij, Visual Studio);
+    final List OS = Arrays.asList("Fedora", "ArchLinux", "Windows 11");
+    final List ides = Arrays.asList("VSCodium", "Intellij", "Visual Studio");
+
     @Override
-    public string SeeMore(){
-       while(true)
-          scrollDown();
-       return "Ok";
+    public String seeMore() {
+        while (true) {
+            scrollDown();
+        }
+        return "Ok";
     }
 }
-
+```
 <!--
 <p align="center">
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IkerOwO&layout=compact&langs_count=8&theme=radical&locale=en"/>
