@@ -16,7 +16,6 @@ public class Iker {
        return "Ok";
     }
 }
-```
 
 <!--
 <p align="center">
