@@ -12,7 +12,7 @@ import java.util.List;
 public class Iker {
     final List languages = {"Java", "C#", "Python"};
     final String[] main_hobbies = {"Play_Guitar", "Draw"};
-    final List OS = Arrays.asList("Fedora", "ArchLinux", "Windows 11");
+    final List os = Arrays.asList("Fedora", "ArchLinux", "Windows 11");
     final List ides = Arrays.asList("VSCodium", "Intellij", "Visual Studio");
 
 
