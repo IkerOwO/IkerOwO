@@ -10,18 +10,25 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Iker {
-    final String[] languages = {"Java", "C#", "Python"};
+    final Class<?>[] languages   = {Java.class, C#.class, Python.class};
     final String[] main_hobbies = {"Play_Guitar", "Draw"};
     final List OS = Arrays.asList("Fedora", "ArchLinux", "Windows 11");
     final List ides = Arrays.asList("VSCodium", "Intellij", "Visual Studio");
 
+
+    @Override
+    public class Frameworks extends Iker {
+        final String[] frameworks = {"Blazor", "Vite", "React"};
+        final String[] databases = {"MySQL", "MongoDB"};
+    }
+    
     @Override
     public String seeMore() {
         while (true) {
             scrollDown();
         }
-        return "Ok";
-    }
+        return "Ok :(";
+    }    
 }
 ```
 <!--
