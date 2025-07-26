@@ -32,6 +32,12 @@ public class Iker {
 }
 ```
 <!--
+# Add me on discord
+
+![discord](https://img.shields.io/badge/Discord-csiker-%237289DA?logo=discord&logoColor=white)
+-->
+
+<!--
 <p align="center">
  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IkerOwO&layout=compact&langs_count=8&theme=radical&locale=en"/>
  <p align="center">
