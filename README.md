@@ -40,7 +40,7 @@ public class Iker {
 
 <h2 align="center"></>Languages</></h2>
 <br/>
--->
+
 
  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
@@ -96,5 +96,5 @@ public class Iker {
  ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 <hr/>
-
+-->
 
