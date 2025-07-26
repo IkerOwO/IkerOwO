@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Iker 👋</h1>
 
 <hr/>
-```java
+```
  package com.iker.readme;
  import iker.info.*;
 public class Iker {
