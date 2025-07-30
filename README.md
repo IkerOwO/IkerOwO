@@ -11,9 +11,9 @@ import java.util.List;
 
 public class Iker {
     final List languages = {"Java", "C#", "Python"};
-    final String[] main_hobbies = {"Play_Guitar", "Draw"};
+    final List main_hobbies = {"Play_Guitar&Bass", "Draw"};
     final List os = Arrays.asList("Fedora", "ArchLinux", "Windows 11");
-    final List ides = Arrays.asList("VSCodium", "Intellij", "Visual Studio");
+    final List ides = Arrays.asList("VSCodium", "Intellij", "Visual Studio", "Eclipse");
 
 
     @Override
@@ -23,12 +23,10 @@ public class Iker {
     }
     
     @Override
-    public String seeMore() {
-        while (true) {
-            scrollDown();
-        }
-        return "Ok :(";
-    }    
+    public class MainAptitudes extends Iker {
+        final String[] WebDevelopment = {"HTML", "CSS", "JS"}
+        final String[] AppDevelopment = {"C# Windows Forms application", "WPF"}
+    } 
 }
 ```
 <!--
