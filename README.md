@@ -25,7 +25,7 @@ public class Iker {
     @Override
     public class MainAptitudes extends Iker {
         final String[] WebDevelopment = {"HTML", "CSS", "JS"}
-        final String[] AppDevelopment = {"C# Windows Forms application", "WPF"}
+        final String[] DesktopAppDevelopment = {"Swing", "C# Windows Forms application", "WPF"}
     }
 
     @Override
