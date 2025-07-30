@@ -26,7 +26,15 @@ public class Iker {
     public class MainAptitudes extends Iker {
         final String[] WebDevelopment = {"HTML", "CSS", "JS"}
         final String[] AppDevelopment = {"C# Windows Forms application", "WPF"}
-    } 
+    }
+
+    @Override
+    public String seeMore() {
+        while (true) {
+            CheckRepositories();
+        }
+        return "Ok :(";
+    }   
 }
 ```
 <!--
