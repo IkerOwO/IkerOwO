@@ -17,7 +17,7 @@ public class Iker {
 
 
     @Override
-    public class Frameworks extends Iker {
+    public class Other extends Iker {
         final String[] frameworks = {"Blazor", "Vite", "React"};
         final String[] databases = {"MySQL", "MongoDB"};
     }
