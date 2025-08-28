@@ -10,10 +10,10 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Iker {
-    final List languages = {"Java", "C#", "Python"};
-    final List main_hobbies = {"Play_Guitar&Bass", "Draw"};
-    final List os = Arrays.asList("Fedora", "ArchLinux", "Windows 11");
-    final List ides = Arrays.asList("VSCodium", "Intellij", "Visual Studio", "Eclipse");
+    final List<String> languages = {"Java", "C#", "Python"};
+    final List<String> main_hobbies = {"Play_Guitar&Bass", "Draw"};
+    final List<String> os = Arrays.asList("Fedora", "ArchLinux", "Windows 11");
+    final List<String> ides = Arrays.asList("VSCodium", "Intellij", "Visual Studio", "Eclipse");
 
 
     @Override
