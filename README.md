@@ -11,10 +11,9 @@ import java.util.List;
 
 public class Iker {
     final List<String> languages = {"Java", "C#", "Python"};
-    final List<String> main_hobbies = {"Play_Guitar&Bass", "Draw"};
+    final List<String> main_hobbies = {"Play_Guitar", "Play_Bass"};
     final List<String> os = Arrays.asList("Fedora", "ArchLinux", "Windows 11");
     final List<String> ides = Arrays.asList("VSCodium", "Intellij", "Visual Studio", "Eclipse");
-
 
     @Override
     public class Other extends Iker {
