@@ -28,7 +28,7 @@ public class Iker {
     }
 
    public String seeMore() {
-        throw new InfiniteExplorationException("Check repositories :3");
+        throw new ExplorationException("Check repositories :3");
     }
     
 }
