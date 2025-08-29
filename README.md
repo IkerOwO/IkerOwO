@@ -6,35 +6,33 @@
 package com.iker.readme;
 
 import iker.info.*;
+package com.iker.readme;
+
 import java.util.Arrays;
 import java.util.List;
 
 public class Iker {
-    final List<String> languages = {"Java", "C#", "Python"};
-    final List<String> main_hobbies = {"Play_Guitar", "Play_Bass"};
+    final List<String> languages = Arrays.asList("Java", "C#", "Python");
+    final List<String> main_hobbies = Arrays.asList("Play_Guitar", "Play_Bass");
     final List<String> os = Arrays.asList("Fedora", "ArchLinux", "Windows 11");
-    final List<String> ides = Arrays.asList("VSCodium", "Intellij", "Visual Studio", "Eclipse");
+    final List<String> ides = Arrays.asList("VSCodium", "IntelliJ", "Visual Studio", "Eclipse");
 
-    @Override
-    public class Other extends Iker {
-        final String[] frameworks = {"Blazor", "Vite", "React"};
-        final String[] databases = {"MySQL", "MongoDB"};
+    public static class Other {
+        final List<String> frameworks = Arrays.asList("Blazor", "Vite", "React");
+        final List<String> databases = Arrays.asList("MySQL", "MongoDB");
+    }
+
+    public static class MainAptitudes {
+        final List<String> WebDevelopment = Arrays.asList("HTML", "CSS", "JS");
+        final List<String> DesktopAppDevelopment = Arrays.asList("Swing", "C# Windows Forms", "WPF");
+    }
+
+   public String seeMore() {
+        throw new InfiniteExplorationException("Check repositories :3");
     }
     
-    @Override
-    public class MainAptitudes extends Iker {
-        final String[] WebDevelopment = {"HTML", "CSS", "JS"}
-        final String[] DesktopAppDevelopment = {"Swing", "C# Windows Forms application", "WPF"}
-    }
-
-    @Override
-    public String seeMore() {
-        while (true) {
-            CheckRepositories();
-        }
-        return "Ok :(";
-    }   
 }
+
 ```
 <!--
 # Add me on discord
