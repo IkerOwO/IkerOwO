@@ -6,8 +6,6 @@
 package com.iker.readme;
 
 import iker.info.*;
-package com.iker.readme;
-
 import java.util.Arrays;
 import java.util.List;
 
