@@ -11,8 +11,8 @@ import java.util.List;
 
 public class Iker {
     final List<String> languages = Arrays.asList("Java", "C#", "Python");
-    final List<String> main_hobbies = Arrays.asList("Play_Guitar", "Play_Bass");
-    final List<String> os = Arrays.asList("Fedora", "ArchLinux", "Windows 11");
+    final List<String> main_hobbies = Arrays.asList("Play Guitar", "Play Bass");
+    final List<String> os = Arrays.asList("Fedora", "Arch", "Windows 11");
     final List<String> ides = Arrays.asList("VSCodium", "IntelliJ", "Visual Studio", "Eclipse");
 
     public static class Other {
