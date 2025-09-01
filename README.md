@@ -10,6 +10,49 @@ import java.util.Arrays;
 import java.util.List;
 
 public class Iker {
+    // ─── Languages I use ───────────────────────────────
+    private final List<String> languages = List.of(
+        "Java", "C#", "Python"
+    );
+
+    // ─── Things I love to do ──────────────────────────
+    private final List<String> hobbies = List.of(
+        "Play Guitar", "Play Bass"
+    );
+
+    // ─── My OS ecosystem ──────────────────────────────
+    private final List<String> operatingSystems = List.of(
+        "Fedora", "Arch", "Windows 11"
+    );
+
+    // ─── IDEs / Editors ───────────────────────────────
+    private final List<String> ides = List.of(
+        "VSCodium", "IntelliJ", "Visual Studio", "Eclipse"
+    );
+
+    // ─── Tech Stack ───────────────────────────────────
+    public static class Stack {
+        final List<String> frameworks = List.of("Blazor", "Vite", "React");
+        final List<String> databases = List.of("MySQL", "MongoDB");
+    }
+
+    // ─── Aptitudes ────────────────────────────────────
+    public static class Skills {
+        final List<String> web = List.of("HTML", "CSS", "JavaScript");
+        final List<String> desktop = List.of("Swing", "C# Windows Forms", "WPF");
+    }
+
+    // ─── Method to explore more ───────────────────────
+    public String seeMore() {
+        throw new ExplorationException("Check my repositories!");
+    }
+}
+
+
+
+<!--
+    OLD README
+public class Iker {
     final List<String> languages = Arrays.asList("Java", "C#", "Python");
     final List<String> main_hobbies = Arrays.asList("Play Guitar", "Play Bass");
     final List<String> os = Arrays.asList("Fedora", "Arch", "Windows 11");
@@ -30,6 +73,7 @@ public class Iker {
     }
     
 }
+-->
 
 ```
 <!--
