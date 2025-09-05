@@ -26,7 +26,7 @@ public class Iker {
 
     // ─── IDEs / Editors ───────────────────────────────
     private final List<String> ides = List.of(
-        "VSCodium", "IntelliJ", "Visual Studio", "Eclipse"
+        "VSCodium", "IntelliJ", "Rider", "Visual Studio", "Eclipse"
     );
 
     // ─── Tech Stack ───────────────────────────────────
