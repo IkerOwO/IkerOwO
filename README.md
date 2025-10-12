@@ -38,7 +38,7 @@ public class Iker {
     // ─── Aptitudes ────────────────────────────────────
     public static class Skills {
         final List<String> web = List.of("HTML", "CSS", "JavaScript");
-        final List<String> desktop = List.of("Swing", "C# Windows Forms", "WPF");
+        final List<String> desktop = List.of("Swing", "C# Windows Forms", "MAUI");
     }
 
     // ─── Method to explore more ───────────────────────
