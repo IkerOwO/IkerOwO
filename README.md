@@ -40,6 +40,8 @@ public class Iker {
 <h3>DB</h3>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
+<h3>IDE's</h3>
+<img src="https://skillicons.dev/icons?i=vscodium,visualstudio,idea" />
 <!--
     OLD README
 public class Iker {
