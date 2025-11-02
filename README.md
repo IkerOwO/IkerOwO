@@ -1,4 +1,5 @@
-<p align="left">Hello :3, I'm Iker a junior Backend Dev</p>
+<img src=""></img>
+<p align="left">Hello :3 I'm Iker, a junior Backend Dev</p>
 
 <hr/>
 
