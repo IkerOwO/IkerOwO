@@ -36,14 +36,8 @@ public class Iker {
 
     // ─── Tech Stack ───────────────────────────────────
     public static class Stack {
-        final List<String> frameworks = List.of("Blazor", "Vite", "React");
+        final List<String> frameworks = List.of("Blazor", "MAUI", "Vite", "React");
         final List<String> databases = List.of("MySQL", "MongoDB");
-    }
-
-    // ─── Aptitudes ────────────────────────────────────
-    public static class Skills {
-        final List<String> web = List.of("HTML", "CSS", "JavaScript");
-        final List<String> desktop_apps = List.of("Swing", "C# Windows Forms", "MAUI");
     }
 
     // ─── Method to explore more ───────────────────────
