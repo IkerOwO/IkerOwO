@@ -1,7 +1,10 @@
-<img src=""></img>
+<p align="center">
+  <img src="cat2.png"></img>
+</p>
+
 <p align="left">Hello :3 I'm Iker, a junior Backend Dev</p>
 
-<hr/>
+
 
 ```java
 package com.iker.readme;
