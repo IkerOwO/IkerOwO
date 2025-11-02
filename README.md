@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Iker 👋</h1>
+<p align="left">Hello :3, I'm Iker a junior Backend Dev</p>
 
 <hr/>
 
