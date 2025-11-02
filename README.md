@@ -32,10 +32,10 @@ public class Iker {
 }
 ```
 <h3>Skills</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,html,css,js)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=java,py,cpp,html,css,js" />
 
 <h3>DB</h3>
-[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 <!--
     OLD README
