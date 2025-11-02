@@ -30,10 +30,13 @@ public class Iker {
         "Fedora", "Arch", "Windows 11"
     );
 }
-
-
-
 ```
+<h3>Skills</h3>
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,html,css,js)](https://skillicons.dev)
+
+<h3>DB</h3>
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+
 <!--
     OLD README
 public class Iker {
