@@ -14,6 +14,11 @@ public class Iker {
         "Java", "C#", "Python"
     );
 
+    // ─── Languages I like ───────────────────────────────
+    private final List<String> languages_I_Like = List.of(
+        "C++", "Rust", "Typescript"
+    );
+
     // ─── Things I love to do ──────────────────────────
     private final List<String> hobbies = List.of(
         "Play Guitar", "Play Bass"
