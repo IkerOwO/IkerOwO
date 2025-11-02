@@ -29,22 +29,6 @@ public class Iker {
     private final List<String> operatingSystems = List.of(
         "Fedora", "Arch", "Windows 11"
     );
-
-    // ─── IDEs / Editors ───────────────────────────────
-    private final List<String> ides = List.of(
-        "VSCode", "IntelliJ", "Rider", "Visual Studio", "Eclipse"
-    );
-
-    // ─── Tech Stack ───────────────────────────────────
-    public static class Stack {
-        final List<String> frameworks = List.of("Blazor", "MAUI", "Vite", "React");
-        final List<String> databases = List.of("MySQL", "MongoDB");
-    }
-
-    // ─── Method to explore more ───────────────────────
-    public String seeMore() {
-        throw new ExplorationException("Check my repositories!");
-    }
 }
 
 
