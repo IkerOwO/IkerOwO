@@ -1,6 +1,6 @@
-<p align="center">
+<!--<p align="center">
   <img src="cat2.png"></img>
-</p>
+</p> -->
 
 <p align="left">Hello :3 I'm Iker, a junior Backend Dev</p>
 
