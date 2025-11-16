@@ -23,6 +23,11 @@ public class Iker {
         "C++", "Rust", "Typescript"
     );
 
+    // ─── Frameworks I work with ──────────────────────────
+    private final List<String> frameworks = List.of(
+        "Astro", "Vite", "MAUI", "Blazor"
+    );
+
     // ─── Things I love to do ──────────────────────────
     private final List<String> hobbies = List.of(
         "Play Guitar", "Play Bass"
@@ -41,7 +46,7 @@ public class Iker {
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
 <h3>IDE's</h3>
-<img src="https://skillicons.dev/icons?i=vscodium,visualstudio,idea" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,vscodium" />
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=IkerOwO&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
