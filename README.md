@@ -35,7 +35,7 @@ public class Iker {
 }
 ```
 <h3>Skills</h3>
-<img src="https://skillicons.dev/icons?i=java,py,cpp,html,css,js" />
+<img src="https://skillicons.dev/icons?i=java,py,astro,html,css,js" />
 
 <h3>DB</h3>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
