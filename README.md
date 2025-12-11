@@ -2,7 +2,7 @@
   <img src="cat2.png"></img>
 </p> -->
 
-<p align="left">Hello :3 I'm Iker, a junior Backend Dev</p>
+<p align="left">Hello I'm Iker, a junior Backend Dev</p>
 
 
 
