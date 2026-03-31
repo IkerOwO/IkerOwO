@@ -15,7 +15,7 @@ import java.util.List;
 public class Iker {
     // ─── Languages I use ───────────────────────────────
     private final List<String> languages = List.of(
-        "Java", "C#", "PHP", "Python"
+        "Java", "C#", "PHP", "Go", "Python"
     );
 
     // ─── Languages I like ───────────────────────────────
