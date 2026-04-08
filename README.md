@@ -25,7 +25,7 @@ public class Iker {
 
     // ─── Frameworks I work with ──────────────────────────
     private final List<String> frameworks = List.of(
-        "Flutter", "Vite", "MAUI", "Blazor"
+        "Flutter", "NextJS", "MAUI", "Blazor"
     );
 
     // ─── Things I love to do ──────────────────────────
