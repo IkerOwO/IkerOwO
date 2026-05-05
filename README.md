@@ -15,7 +15,7 @@ import java.util.List;
 public class Iker {
     // ─── Languages I use but don't use ───────────────────────────────
     private final List<String> languages = List.of(
-        "Java", "C#", "PHP", "Go", "Python"
+        "Java", "C#", "Python", "PHP", "Go"
     );
 
     // ─── Languages I like ───────────────────────────────
@@ -39,14 +39,20 @@ public class Iker {
     );
 }
 ```
-<h3>Skills</h3>
-<img src="https://skillicons.dev/icons?i=java,cs,go,py,php,flutter,html,css,js" />
+<h3>Backend Skills</h3>
+<img src="https://skillicons.dev/icons?i=java,cs,py,php,go" />
+
+<h3>Frontend Skills</h3>
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 <h3>DB</h3>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 
+<h3>Frameworks</h3>
+<img src="https://skillicons.dev/icons?i=flutter,dotnet,react" />
+
 <h3>IDE's</h3>
-<img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,vscodium" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,androidstudio" />
 
 <img src="https://raw.githubusercontent.com/IkerOwO/IkerOwO/output/snake.svg" alt="Snake animation" />
 <!--
