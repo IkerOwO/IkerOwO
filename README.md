@@ -40,7 +40,7 @@ public class Iker {
 }
 ```
 <h3>Backend Skills</h3>
-<img src="https://skillicons.dev/icons?i=java,spring,cs,py,php,go" />
+<img src="https://skillicons.dev/icons?i=java,cs,py,php,go" />
 
 <h3>Frontend Skills</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
@@ -49,7 +49,7 @@ public class Iker {
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
 
 <h3>Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=flutter,dotnet,react" />
+<img src="https://skillicons.dev/icons?i=spring,flutter,dotnet,react" />
 
 <h3>IDE's</h3>
 <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,androidstudio" />
