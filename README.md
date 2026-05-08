@@ -25,7 +25,7 @@ public class Iker {
 
     // ─── Frameworks I work with ──────────────────────────
     private final List<String> frameworks = List.of(
-        "Flutter", "NextJS", "MAUI", "Blazor"
+        "Spring Boot", "Flutter", "NextJS", "MAUI", "Blazor"
     );
 
     // ─── Things I love to do ──────────────────────────
@@ -46,7 +46,7 @@ public class Iker {
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
 <h3>DB</h3>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
 
 <h3>Frameworks</h3>
 <img src="https://skillicons.dev/icons?i=flutter,dotnet,react" />
