@@ -40,7 +40,7 @@ public class Iker {
 }
 ```
 <h3>Backend Skills</h3>
-<img src="https://skillicons.dev/icons?i=java,cs,py,php,go" />
+<img src="https://skillicons.dev/icons?i=java,spring,cs,py,php,go" />
 
 <h3>Frontend Skills</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
