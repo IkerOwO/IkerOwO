@@ -15,7 +15,7 @@ import java.util.List;
 public class Iker {
     // ─── Languages I use but don't use ───────────────────────────────
     private final List<String> languages = List.of(
-        "Java", "C#", "Python", "PHP", "Go"
+        "Java", "C#", "Python", "PHP", "JS"
     );
 
     // ─── Languages I like ───────────────────────────────
@@ -40,7 +40,7 @@ public class Iker {
 }
 ```
 <h3>Backend Skills</h3>
-<img src="https://skillicons.dev/icons?i=java,cs,py,php,go" />
+<img src="https://skillicons.dev/icons?i=java,cs,py,php" />
 
 <h3>Frontend Skills</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
