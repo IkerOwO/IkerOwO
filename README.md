@@ -13,14 +13,9 @@ import iker.info.*;
 import java.util.List;
 
 public class Iker {
-    // ─── Languages I use but don't use ───────────────────────────────
+    // ─── Languages I use ───────────────────────────────
     private final List<String> languages = List.of(
         "Java", "C#", "Python", "PHP", "JS"
-    );
-
-    // ─── Languages I like ───────────────────────────────
-    private final List<String> languages_I_Like = List.of(
-        "C++", "Rust", "Typescript"
     );
 
     // ─── Frameworks I work with ──────────────────────────
@@ -35,7 +30,7 @@ public class Iker {
 
     // ─── My OS ecosystem ──────────────────────────────
     private final List<String> operatingSystems = List.of(
-        "Fedora", "Arch", "Windows 11"
+        "Ubuntu", "Fedora", "Windows 11"
     );
 }
 ```
