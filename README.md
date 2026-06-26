@@ -20,7 +20,7 @@ public class Iker {
 
     // ─── Frameworks I work with ──────────────────────────
     private final List<String> frameworks = List.of(
-        "Spring Boot", "Flutter", "NextJS", "WPF", "Blazor"
+        "Spring Boot", "Flutter", ".NET", "Blazor"
     );
 
     // ─── Things I love to do ──────────────────────────
@@ -35,16 +35,16 @@ public class Iker {
 }
 ```
 <h3>Backend Skills</h3>
-<img src="https://skillicons.dev/icons?i=java,cs,py,php" />
+<img src="https://skillicons.dev/icons?i=java,docker,cs,py,php" />
 
 <h3>Frontend Skills</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
 
 <h3>DB</h3>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 
 <h3>Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=spring,flutter,dotnet,react" />
+<img src="https://skillicons.dev/icons?i=spring,flutter,dotnet" />
 
 <h3>IDE's</h3>
 <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,androidstudio" />
