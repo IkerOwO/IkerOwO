@@ -9,7 +9,6 @@
 ```java
 package com.iker.readme;
 
-import iker.info.*;
 import java.util.List;
 
 public class Iker {
