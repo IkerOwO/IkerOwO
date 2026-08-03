@@ -1,4 +1,5 @@
-<p align="left">Hello I'm Iker, a junior backend and app dev</p>
+## Hello!👋
+I'm Iker, a junior backend and app dev
 
 
 
