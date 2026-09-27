@@ -40,7 +40,7 @@ public class Iker {
 <img src="https://skillicons.dev/icons?i=mysql,postgres"/>
 
 <h3>Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=spring,flutter,dotnet" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,flutter,dotnet" />
 
 <h3>Tools</h3>
 <img src="https://skillicons.dev/icons?i=hibernate,docker,git,github" />
