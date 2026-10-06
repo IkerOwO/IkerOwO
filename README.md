@@ -43,7 +43,7 @@ public class Iker {
 <img src="https://skillicons.dev/icons?i=spring,flutter,dotnet" />
 
 <h3>Tools</h3>
-<img src="https://skillicons.dev/icons?i=hibernate,docker,git,github" />
+<img src="https://skillicons.dev/icons?i=hibernate,git,github" />
 
 <h3>IDE's</h3>
 <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,androidstudio" />
