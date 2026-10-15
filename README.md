@@ -11,7 +11,7 @@ import java.util.List;
 public class Iker {
     // ─── Languages I use ───────────────────────────────
     private final List<String> languages = List.of(
-        "Java", "C#", "Python", "JavaScript"
+        "Java", "C#", "TypeScript", "Python", "JavaScript"
     );
 
     // ─── Frameworks I work with ──────────────────────────
@@ -31,7 +31,7 @@ public class Iker {
 }
 ```
 <h3>Backend Skills</h3>
-<img src="https://skillicons.dev/icons?i=java,cs,py,php" />
+<img src="https://skillicons.dev/icons?i=java,cs,typescript,py" />
 
 <h3>Frontend Skills</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js" />
